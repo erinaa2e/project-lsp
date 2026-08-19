@@ -1,0 +1,30 @@
+<svg width="760" height="430" viewBox="0 0 760 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="h" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F7FBFF"/><stop offset="1" stop-color="#B9DDF4"/></linearGradient>
+ <linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#2B6F9F"/><stop offset="1" stop-color="#123D62"/></linearGradient>
+ <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-opacity=".22"/></filter>
+</defs>
+<path d="M65 342C190 305 292 329 401 350C514 372 617 361 701 328" stroke="#9ED7F6" stroke-width="7" stroke-linecap="round"/>
+<path d="M88 358C214 326 302 349 403 365C510 382 614 371 687 350" stroke="#CFEFFF" stroke-width="5" stroke-linecap="round"/>
+<g filter="url(#shadow)">
+<path d="M147 287L205 315H591L641 283L620 342C614 359 598 369 579 369H207C184 369 166 356 160 335L147 287Z" fill="url(#w)"/>
+<path d="M171 280H624L586 319H202L171 280Z" fill="#F8FBFE"/>
+<path d="M206 236H583V281H206V236Z" fill="url(#h)"/>
+<path d="M245 199H544V237H245V199Z" fill="#F7FAFC"/>
+<path d="M286 162H505V201H286V162Z" fill="#EAF5FC"/>
+<path d="M326 131H465V163H326V131Z" fill="#FFFFFF"/>
+<path d="M338 101H453V132H338V101Z" fill="#E9F3F8"/>
+<path d="M357 78H436V102H357V78Z" fill="#F8FBFF"/>
+<path d="M160 278H632" stroke="#163E60" stroke-width="8"/>
+<path d="M203 238H584M244 200H545M286 163H505" stroke="#9FC6DC" stroke-width="4"/>
+<g fill="#3D87B5">
+<rect x="225" y="250" width="26" height="15" rx="3"/><rect x="264" y="250" width="26" height="15" rx="3"/><rect x="303" y="250" width="26" height="15" rx="3"/><rect x="342" y="250" width="26" height="15" rx="3"/><rect x="381" y="250" width="26" height="15" rx="3"/><rect x="420" y="250" width="26" height="15" rx="3"/><rect x="459" y="250" width="26" height="15" rx="3"/><rect x="498" y="250" width="26" height="15" rx="3"/><rect x="537" y="250" width="26" height="15" rx="3"/>
+</g>
+<g fill="#4E9CC8">
+<rect x="258" y="210" width="25" height="15" rx="3"/><rect x="295" y="210" width="25" height="15" rx="3"/><rect x="332" y="210" width="25" height="15" rx="3"/><rect x="369" y="210" width="25" height="15" rx="3"/><rect x="406" y="210" width="25" height="15" rx="3"/><rect x="443" y="210" width="25" height="15" rx="3"/><rect x="480" y="210" width="25" height="15" rx="3"/><rect x="517" y="210" width="25" height="15" rx="3"/>
+</g>
+<path d="M118 288L177 287L161 315H102L118 288Z" fill="#F5F9FC"/>
+<path d="M602 275L670 246L648 290L612 309L602 275Z" fill="#D8EAF4"/>
+</g>
+<text x="365" y="410" font-family="Arial" font-size="16" fill="#D9F0FF">OCEANGO</text>
+</svg>
